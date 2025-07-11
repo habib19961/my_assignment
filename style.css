@@ -177,7 +177,7 @@
     margin-bottom: 30px;
     background-color: azure;
     padding: 20px 32px;
-    width: 100%;
+    width: 87%;
     border-radius: 10px;
     border: 1px solid #D6DDED;
     margin-top: 10px;
@@ -196,4 +196,36 @@
     width: 100%;
     font-family: "Raleway", sans-serif;
 }
-
+footer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 140px;
+    margin-right: 160px;
+    margin-bottom: 120px;
+    align-items: center;
+}
+footer p {
+    color: #8987A1;
+}
+footer h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: #4E47FF;
+    font-family: "Inter", sans-serif;
+}
+ul {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    margin-top: 30px;
+}
+a {
+    text-decoration: none;
+    color: #8987A1;
+}
+button:hover {
+    background-color: #04AA6D;
+}
+.section5 input[type="button"]:hover {
+    background-color: #04AA6D;
+}
