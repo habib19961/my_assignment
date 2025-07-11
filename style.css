@@ -73,6 +73,7 @@
     background-color: #D6DDED;
     margin-left: 140px;
     margin-right: 160px;
+    margin-bottom: 70px;
     border-radius: 24px;
 }
 .section-title2 {
@@ -102,7 +103,8 @@
 }
 .card {
     padding: 24px;
-    background-color: azure;
+    background-color: #F3F3F3;
+    border-radius: 14px;
 }
 .card p {
     margin-top: 10px;
