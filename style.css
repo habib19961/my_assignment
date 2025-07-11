@@ -96,3 +96,42 @@
     font-family: "Inter", sans-serif;
     color: #8987A1;
 }
+.card-section {
+    display: flex;
+    justify-content: space-around;
+}
+.card {
+    padding: 24px;
+    background-color: azure;
+}
+.card p {
+    margin-top: 10px;
+    color: #757575;
+}
+.card h4 {
+    margin-top: 10px;
+}
+.card-title {
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+}
+.card-section {
+    margin-left: 140px;
+    margin-right: 160px;
+}
+.tricky {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-top: 15px;
+}
+.easy {
+    margin-top: 10px;
+}
+.card-subtitle {
+    color: #757575;
+}
+.easy h6 {
+    color: #757575;
+}
