@@ -44,3 +44,23 @@
 .btn-2 {
     margin-bottom: 200px;
 }
+/* section design */
+.section1 {
+    display: flex;
+    margin: 40px 158px;
+    justify-content: space-between;
+    align-items: center;
+}
+.section-title {
+    font-size: 42px;
+}
+.content p {
+    font-family: "Raleway", sans-serif;
+    margin-top: 23px;
+    margin-bottom: 23px;
+    color: #8987A1;
+}
+.section1-image {
+    border: none;
+    border-radius: 48px;
+}
