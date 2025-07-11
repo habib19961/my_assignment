@@ -225,7 +225,9 @@ a {
 }
 button:hover {
     background-color: #04AA6D;
+    cursor: pointer;
 }
 .section5 input[type="button"]:hover {
     background-color: #04AA6D;
+    cursor: pointer;
 }
