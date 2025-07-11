@@ -160,3 +160,40 @@
 .section4 img {
     border-radius: 48px;
 }
+.section5 {
+    display: flex;
+    margin-left: 140px;
+    margin-right: 160px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.section5 h1 {
+    font-size: 97px;
+    font-weight: bold;
+}
+.section5 input[type="email"], input[type="name"],  textarea {
+    display: block;
+    margin-bottom: 30px;
+    background-color: azure;
+    padding: 20px 32px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #D6DDED;
+    margin-top: 10px;
+}
+.section5-title {
+    text-align: center;
+    width: 50%;
+}
+.section5-form {
+    width: 50%;
+}
+.section5 form {
+    align-items: center;
+}
+.section5 input[type="button"] {
+    width: 100%;
+    font-family: "Raleway", sans-serif;
+}
+
